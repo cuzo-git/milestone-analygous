@@ -1,0 +1,17 @@
+
+#portfolio {
+    background-color: #f9ceb7;
+    text-align: center;
+}
+
+#portfolio  .full-width {
+    padding: 115px 0;
+}
+
+
+#work p {
+    font-family: 'Lora', serif;
+    font-size: 18px;
+    line-height: 30px;
+    padding: 0 50px;
+}
