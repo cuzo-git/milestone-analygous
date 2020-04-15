@@ -1,4 +1,19 @@
 
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #2b2b2b;
+}
+
+#about, #work, #contact {
+    height: 600px;
+}
+
+.half-width {
+    width: 600px;
+    float: left;
+}
+
+
 #portfolio {
     background-color: #f9ceb7;
     text-align: center;
