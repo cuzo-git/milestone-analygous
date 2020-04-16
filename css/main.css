@@ -1,4 +1,4 @@
-
+/****** BASE STYLES ******/
 
 body {
 font-family: 'Baloo Paaji 2', cursive;
@@ -7,6 +7,8 @@ font-family: 'Baloo Paaji 2', cursive;
     #portfolio, #about, #contact {
         height: 600px;
     }
+
+    /****** GRID ******/
 
     .full-width {
         width: 1200px;
@@ -20,6 +22,8 @@ font-family: 'Baloo Paaji 2', cursive;
         width: 400px;
         float: left;
     }
+
+    /****** HEADER ******/
 
     header {
         height: 800px;
